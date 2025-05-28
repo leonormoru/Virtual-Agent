@@ -51,7 +51,7 @@ The provided dataset includes multiple file types representing internal company 
 - Performance analysis vs traditional knowledge access methods  
 
 <h2 align="center"> ⚠️ **Important Submission Requirement** ⚠️ </h2>
-<h3> ✅ Before the 4-hour deadline</h3>
+<h3> ✅ Before the 14h00 deadline</h3>
 
 Submit a zip folder with:
 - The **Google Colab notebook** (with all cells run & outputs shown).
